@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+}
+
+.card{
+/*   $card-cap-padding-y: $card-spacer-y * .3; */
+  margin-left: .3in;
+  margin-top: 1in;
+  margin-right: .3in;
+  border-style: solid;
+}
