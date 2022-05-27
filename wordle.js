@@ -192,7 +192,6 @@ document.addEventListener("DOMContentLoaded", () => {
       document.getElementById("keyboard-container").innerHTML = storedKeyboardContainer
     }
     addKeyboardClicks()
-    getNewWord()
   }
 
   
